@@ -4,6 +4,8 @@ TEMPLATE = app
 
 QT += httpserver
 
+QT -= gui
+
 SOURCES += \
     main.cpp
 
